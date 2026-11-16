@@ -21,6 +21,7 @@ upwatch/
 | Проєктне бачення | [docs/02_Vision_Document.docx](docs/02_Vision_Document.docx) |
 | Специфікація v0.1 | [docs/03_Specification_v0.1.docx](docs/03_Specification_v0.1.docx) |
 | Склад команди | [docs/04_Team.docx](docs/04_Team.docx) |
+| Специфікація вимог (SRS) | [docs/SRS.docx](docs/SRS.docx) |
 
 ## Стек (попередній)
 
